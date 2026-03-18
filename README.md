@@ -4,7 +4,7 @@ A full-stack expense tracking app that uses AI to parse natural language input a
 
 Built by:Rajeev Ranjan Kumar
 GitHub: rajkumu12
-Time to build: ~1 hrs 30 minute with ai assitance 
+Time to build: ~50 to 70 minutes with ai assitance 
 
 ## 🎥 Demo
 
