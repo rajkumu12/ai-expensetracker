@@ -2,13 +2,14 @@
 
 A full-stack expense tracking app that uses AI to parse natural language input and automatically categorize expenses.
 
-Built by: [YOUR NAME]
-GitHub: [YOUR GITHUB USERNAME]
-Time to build: ~2 hours (with AI assistance)
+Built by:Rajeev Ranjan Kumar
+GitHub: rajkumu12
+Time to build: ~1 hrs 30 minute with ai assitance 
 
 ## 🎥 Demo
 
-[Add your screen recording link here]
+mobile app: https://drive.google.com/file/d/18JPEd4m3x6V1nzNVtd6BDJdbLArstuKh/view?usp=drivesdk
+
 
 ## 🛠️ Tech Stack
 
